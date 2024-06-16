@@ -43,3 +43,4 @@ kendo-ui-license.txt
 
 # Vercel
 .vercel
+.env
