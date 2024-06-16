@@ -3,11 +3,6 @@ import { KendoChart } from "~/integrations/kendo/chart";
 
 export default component$(() => {
 
-
-    return (
-        <>
-        <KendoChart client:visible />
-        </>        
-    );
+    return <KendoChart client:visible />;
 
 });
